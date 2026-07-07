@@ -18,3 +18,5 @@ ORDER BY total_amount DESC;
 -- which filters individual rows BEFORE aggregation. This is why 
 -- HAVING can reference SUM(), COUNT(), AVG() directly in its 
 -- condition, while WHERE cannot.
+
+
